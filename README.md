@@ -58,3 +58,8 @@ If thresholds are exceeded for a number of consecutive frames, an alert sound is
 - Deploy on edge devices like Raspberry Pi
 - Store drowsiness events for analytics
 - Build a dashboard for fleet monitoring
+
+## Author
+Developed by Bommala Revanth Reddy
+AI & Data Science Student
+📧 saireddybommala2005@gmail.com
