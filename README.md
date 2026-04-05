@@ -33,6 +33,7 @@ python run.py
 
 ## Project Structure
 
+```
 driver-drowsiness-detection/
 │
 ├── src/        # detection logic
@@ -40,6 +41,7 @@ driver-drowsiness-detection/
 ├── run.py      # entry point
 ├── requirements.txt
 └── README.md
+```
 
 ## How It Works
 
@@ -60,6 +62,6 @@ If thresholds are exceeded for a number of consecutive frames, an alert sound is
 - Build a dashboard for fleet monitoring
 
 ## Author
-Developed by Bommala Revanth Reddy
-AI & Data Science Student
-📧 saireddybommala2005@gmail.com
+- Developed by Bommala Revanth Reddy
+- AI & Data Science Student
+- 📧 saireddybommala2005@gmail.com
